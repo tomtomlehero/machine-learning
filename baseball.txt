@@ -1,0 +1,15 @@
+Outlook	Temperature	Humidity	Wind	class
+Sunny	Hot	High	Weak	Don't play baseball
+Sunny	Hot	High	Strong	Don't play baseball
+Overcast	Hot	High	Weak	Play baseball
+Rain	Mild	High	Weak	Play baseball
+Rain	Cool	Normal	Weak	Play baseball
+Rain	Cool	Normal	Strong	Don't play baseball
+Overcast	Cool	Normal	Strong	Play baseball
+Sunny	Mild	High	Weak	Don't play baseball
+Sunny	Cool	Normal	Weak	Play baseball
+Rain	Mild	Normal	Weak	Play baseball
+Sunny	Mild	Normal	Strong	Play baseball
+Overcast	Mild	High	Strong	Play baseball
+Overcast	Hot	Normal	Weak	Play baseball
+Rain	Mild	High	Strong	Don't play baseball

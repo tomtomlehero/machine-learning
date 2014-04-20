@@ -1,0 +1,15 @@
+wind	class
+weak	yes
+strong	no
+strong	yes
+weak	yes
+strong	no
+strong	yes
+strong	yes
+strong	no
+weak	no
+weak	yes
+weak	yes
+weak	yes
+weak	no
+weak	yes

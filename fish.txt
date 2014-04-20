@@ -1,0 +1,6 @@
+no surfacing	flippers	class
+yes	yes	fish
+yes	yes	fish
+yes	no	not fish
+no	yes	not fish
+no	yes	not fish
