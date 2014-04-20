@@ -13,7 +13,6 @@ public class ID3 {
 		System.out.println(dataSet);
 		
 		
-		
 		double h = entropy(dataSet);
 		
 		System.out.println("Entropy = " + h);
