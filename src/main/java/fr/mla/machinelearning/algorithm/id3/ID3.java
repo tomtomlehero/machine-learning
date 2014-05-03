@@ -21,7 +21,6 @@ public class ID3 {
 		for (int feature = 0; feature < dataSet.getFeatures().length; feature++) {
 			double gain = gain(dataSet, feature, h);
 		}
-		
 
 	}
 
