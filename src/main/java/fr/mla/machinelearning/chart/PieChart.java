@@ -62,7 +62,7 @@ public class PieChart extends JFrame {
 	}
 
 	public static void main(String[] args) {
-		PieChart demo = new PieChart("Comparison", "Which operating system are you using?");
+		PieChart demo = new PieChart("Comparison", "Which OS are you using?");
 		demo.pack();
 		demo.setVisible(true);
 	}

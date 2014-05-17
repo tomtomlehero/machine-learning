@@ -17,7 +17,7 @@ public class ScatterPlot extends JFrame {
 
 
 	public ScatterPlot() {
-		super("Scatter Plot");
+		super("My Scatter Plot");
 		JFreeChart chart = createChart();
 		
 		ChartPanel chartPanel = new ChartPanel(chart);
@@ -28,9 +28,8 @@ public class ScatterPlot extends JFrame {
 	
 	public JFreeChart createChart() {
 		
-		JFreeChart chart = ChartFactory.createScatterPlot("Ttiittle", "xAxis", "yAxis", createDataSet());
-		
-		return chart;
+		return ChartFactory.createScatterPlot("Ttiittle", "xAxis", "yAxis", createDataSet());
+
 	}
 	
 	private XYDataset createDataSet() {
